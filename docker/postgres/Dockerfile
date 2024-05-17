@@ -1,5 +1,0 @@
-FROM postgres:15.4
-
-WORKDIR /app
-
-EXPOSE 5432
